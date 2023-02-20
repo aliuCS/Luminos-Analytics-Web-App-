@@ -2,7 +2,7 @@
 
 Frontend Web Analytics Application Interface 
 
-A web analytics application interface that built with JavaScript, HTML, and CSS that allows users to track and analyze website vistors traffic and user behavior. The application consists of two main components: a tracking script that can be embedded in any website, and a dashboard that displays analytics data like bounce rate or total views.
+A web analytics application interface that built with JavaScript, HTML, and CSS that allows users to track and analyze website visitors traffic and user behavior. The application consists of two main components: a tracking script that can be embedded in any website, and a dashboard that displays analytics data like bounce rate or total views.
 
 Description: 
 Real-time analytics: Users can see website traffic and user behavior data in real time, This web analytics application is a tool for tracking and analyzing website traffic and user behavior. It is easy to use, highly customizable, and provides real-time data for informed decision making. 
